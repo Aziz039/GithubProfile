@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Find GitHub Profile</string>
+    <string name="preference_file_key">com.example.retrofit_github.USERNAME</string>
+</resources>
